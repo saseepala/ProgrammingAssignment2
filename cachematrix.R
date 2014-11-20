@@ -1,5 +1,6 @@
 ##makeCacheMatrix and cacheSolve work for caching inverse of a given matrix 
-##and returning the cached inverse value if already cached.
+##and returning the cached inverse value if already cached. Such caching saves 
+##recomputations of inverses already computed.
 
 ## makeCacheMatrix outputs a list of functions 
 ##capable of storing and accessing a given matrix and its inverse.
